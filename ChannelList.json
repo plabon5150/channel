@@ -1,0 +1,21 @@
+[
+{
+    "channelName":"D SPORTS",
+    "channelLanguage":"ENGLISH",
+    "channelType":"SPORTS",
+    "channelCountry":"INDIA",
+    "channelUrl":"http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8",
+    "channelPoster" :"https://cdn.i.haymarketmedia.asia/?n=campaign-india%2Fcontent%2Fdsport.jpg&h=570&w=855&q=100&v=20170226&c=1"
+
+},
+
+{
+   "channelName":"Gazi TV",
+   "channelLanguage":"Bangla",
+   "channelType":"Entertainment and Sports",
+   "channelCountry":"Bangladesh",
+   "channelUrl":"https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8",
+   "channelPoster":"https://1.bp.blogspot.com/-ExR2n3p6MYc/W78bjBdKUHI/AAAAAAAAAWU/Wy6_RLabNJYgTeNcMGAbj1rgtX1k3KVpwCLcBGAs/s320/Gazi%20TV-live-cricket-gazi-tv-live.png"
+
+}
+]
