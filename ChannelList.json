@@ -79,5 +79,55 @@
    "channelUrl":"https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8  ",
    "channelPoster":"https://sites.google.com/site/freewebsites33/_/rsrc/1472872664478/madina-tv-live/images%2810%29.jpg"
 
-}
+},
+  {
+     "channelName":"NTV Us pacific time",
+     "channelLanguage":"Bangla",
+     "channelType":"Entertainment",
+     "channelCountry":"Bangladesh",
+     "channelUrl":"https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u",
+     "channelPoster":"https://www.ntvbd.com/sites/all/themes/sloth/logo.png"
+  },
+  {
+     "channelName":"Iqra Bangla",
+     "channelLanguage":"Bangla",
+     "channelType":"Islamic",
+     "channelCountry":"Saudi Arabia",
+     "channelUrl":"https://ap01.iqplay.tv:81/iqb8002/iq53la.m3u8",
+     "channelPoster":"https://iqraa.com/assets/images/Logo/Iqraa-Logo.png"
+  },
+  {
+     "channelName":"Channel T1",
+     "channelLanguage":"Bangla",
+     "channelType":"Entertainment",
+     "channelCountry":"Bangladesh",
+     "channelUrl":"http://128.199.212.160/channelt1/1080/index.m3u8",
+     "channelPoster":"https://scontent.fcgp5-1.fna.fbcdn.net/v/t1.0-9/65191059_857052151336099_6031980889456508928_n.png?_nc_cat=108&_nc_sid=09cbfe&_nc_oc=AQnTl8SWH5uJOwrogPipS0QykmSRplUabgMtyYGmMfCDoPSIEGoyvLTh-fbfsm3O-n4&_nc_ht=scontent.fcgp5-1.fna&oh=88edf6d878fb6c08a06eface5d65d2ca&oe=5ED3AC13"
+  },
+  {
+     "channelName":"Discovery channel",
+     "channelLanguage":"English",
+     "channelType":"wild",
+     "channelCountry":"US",
+     "channelUrl":"https://stream.simpaisa.com/pitvlive2/discovery_360p/playlist.m3u8?checkedby:iptvcat.com",
+     "channelPoster":"https://logos-download.com/wp-content/uploads/2016/06/Discovery_Channel_logo.png"
+  },
+  {
+     "channelName":"Zindagi Tv",
+     "channelLanguage":"Hindi",
+     "channelType":"Entertainment",
+     "channelCountry":"India",
+     "channelUrl":"https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8?checkedby:iptvcat.com",
+     "channelPoster":"https://live-tv-channels.org/pt-data/uploads/logo/pk-zindagi-tv.jpg"
+  },
+  {
+     "channelName":"Waseeb",
+     "channelLanguage":"pakistani",
+     "channelType":"Entertainment",
+     "channelCountry":"Pakistani",
+     "channelUrl":"https://stream.simpaisa.com/pitvlive2/waseeb3/playlist.m3u8?checkedby:iptvcat.com",
+     "channelPoster":"https://www.brandsynario.com/directory/wp-content/uploads/2018/01/a-35.jpg"
+  }
+
+
 ]
