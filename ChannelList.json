@@ -127,7 +127,81 @@
      "channelCountry":"Pakistani",
      "channelUrl":"https://stream.simpaisa.com/pitvlive2/waseeb3/playlist.m3u8?checkedby:iptvcat.com",
      "channelPoster":"https://www.brandsynario.com/directory/wp-content/uploads/2018/01/a-35.jpg"
+  },
+  {
+     "channelName":"Vish",
+     "channelLanguage":"pakistani",
+     "channelType":"News",
+     "channelCountry":"pakistan",
+     "channelUrl":"https://stream.simpaisa.com/pitvlive2/vsh3/playlist.m3u8?checkedby:iptvcat.com",
+     "channelPoster":"https://live-tv-channels.org/pt-data/uploads/logo/pk-vsh-news-2241.jpg"
+  },
+  {
+     "channelName":"Tag tv",
+     "channelLanguage":"Indian",
+     "channelType":"News",
+     "channelCountry":"INDIA",
+     "channelUrl":"http://cdn11.live247stream.com/tag/tv/playlist.m3u8?checkedby:iptvcat.com",
+     "channelPoster":"https://pbs.twimg.com/profile_images/541070675385917440/lLsLhFY7.jpeg"
+  },
+  {
+     "channelName":"Tv one news",
+     "channelLanguage":"pakistani",
+     "channelType":"News",
+     "channelCountry":"pakistan",
+     "channelUrl":"https://stream.simpaisa.com/pitvlive2/tvonenews3/playlist.m3u8?checkedby:iptvcat.com",
+     "channelPoster":"https://i.ya-webdesign.com/images/tv-one-logo-png.png"
+  },
+  {
+     "channelName":"Tv one",
+     "channelLanguage":"pakistani",
+     "channelType":"Entertainment",
+     "channelCountry":"pakistan",
+     "channelUrl":"https://stream.simpaisa.com/pitvlive2/tvone3/playlist.m3u8?checkedby:iptvcat.com",
+     "channelPoster":"https://c7.uihere.com/files/291/895/597/tvone-pakistan-television-channel-drama-news-live.jpg"
+  },
+  {
+     "channelName":"Sony mix",
+     "channelLanguage":"India",
+     "channelType":"movie",
+     "channelCountry":"India",
+     "channelUrl":"http://216.144.250.174/Sony_Mix_HD/playlist.m3u8?checkedby:iptvcat.com",
+     "channelPoster":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SONY_MIX_LOGO_LATEST.jpg/538px-SONY_MIX_LOGO_LATEST.jpg"
+  },
+  {
+     "channelName":"Sindh Tv",
+     "channelLanguage":"pakistani",
+     "channelType":"Entertainment",
+     "channelCountry":"pakistan",
+     "channelUrl":"https://stream.simpaisa.com/pitvlive2/sindhtv3/playlist.m3u8?checkedby:iptvcat.com",
+     "channelPoster":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Sindh_tv.jpg/130px-Sindh_tv.jpg"
+  },
+  {
+     "channelName":"See tv",
+     "channelLanguage":"pakistani",
+     "channelType":"Islamic",
+     "channelCountry":"pakistan",
+     "channelUrl":"https://stream.simpaisa.com/pitvlive2/seetv3/playlist.m3u8?checkedby:iptvcat.com",
+     "channelPoster":"https://1.bp.blogspot.com/-HmvMQm0C0DU/WB9blhmw19I/AAAAAAAAApk/kGghIWlz7BU0y4yjoZ_f5VbksKyGoSpTgCLcB/s1600/SEE%2BTV%2BHD%2BLIVE%2BSTREAMING.png"
+  },
+  {
+     "channelName":"Sach Tv",
+     "channelLanguage":"pakistani",
+     "channelType":"Islamic",
+     "channelCountry":"pakistan",
+     "channelUrl":"https://stream.simpaisa.com/pitvlive2/sachtv3/playlist.m3u8?checkedby:iptvcat.com",
+     "channelPoster":"https://pbs.twimg.com/profile_images/1162672286006218753/ffQKPmNE_400x400.jpg"
+  },
+  {
+     "channelName":"Pitara tv",
+     "channelLanguage":"Hindi",
+     "channelType":"Movies & Music",
+     "channelCountry":"pakistan",
+     "channelUrl":"http://pitaaralive.planetcast.in/pitaaraTV/pitaaraTV.m3u8?checkedby:iptvcat.com",
+     "channelPoster":"https://scontent.fcgp5-1.fna.fbcdn.net/v/t1.0-9/34182702_603069220068341_2665810076626845696_o.png?_nc_cat=104&_nc_sid=09cbfe&_nc_oc=AQmt7d5fFagZi93faAJCPpvZ1ZusZm6JigiASDt3tTj9CBmLh6YJ7qs8M5jApZ6tEKM&_nc_ht=scontent.fcgp5-1.fna&oh=8aa4c07544f99c924606816a3161044f&oe=5ED1D8F0"
   }
+
+ 
 
 
 ]
