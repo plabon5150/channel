@@ -222,8 +222,10 @@
      "channelLanguage":"English",
      "channelType":"Wild",
      "channelCountry":"Hong Kong",
-     "channelUrl":"https://img.favpng.com/12/20/21/logo-nat-geo-wild-national-geographic-television-channel-png-favpng-X5cTr0eRJi2b96GK1s1x1nBAK.jpg",
-     "channelPoster":"https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8"
+     "channelUrl":"https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8",
+
+     
+     "channelPoster":"https://img.favpng.com/12/20/21/logo-nat-geo-wild-national-geographic-television-channel-png-favpng-X5cTr0eRJi2b96GK1s1x1nBAK.jpg"
   },
   {
      "channelName":"NetGeo People",
