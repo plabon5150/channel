@@ -81,11 +81,11 @@
 
 },
   {
-     "channelName":"NTV Us pacific time",
+     "channelName":"NTV",
      "channelLanguage":"Bangla",
      "channelType":"Entertainment",
      "channelCountry":"Bangladesh",
-     "channelUrl":"https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u",
+     "channelUrl":"https://edge01.iptv.digijadoo.net/live/ntv/chunks.m3u8",
      "channelPoster":"https://www.ntvbd.com/sites/all/themes/sloth/logo.png"
   },
   {
@@ -240,7 +240,7 @@
      "channelLanguage":"Hindi",
      "channelType":"Serial",
      "channelCountry":"India",
-     "channelUrl":"https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8",
+     "channelUrl":"https://edge01.iptv.digijadoo.net/live/zee_tv/chunks.m3u8",
      "channelPoster":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Zee_TV-2018.png/180px-Zee_TV-2018.png"
   },
   {
@@ -248,7 +248,7 @@
      "channelLanguage":"Hindi",
      "channelType":"Movies",
      "channelCountry":"India",
-     "channelUrl":"https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8",
+     "channelUrl":"https://edge01.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8",
 
      "channelPoster":"https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/zee-cinema-new.jpg"
   },
@@ -257,15 +257,23 @@
      "channelLanguage":"Hindi",
      "channelType":"Movies",
      "channelCountry":"India",
-     "channelUrl":"https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8",
+     "channelUrl":"http://216.144.250.174/Zee_ClassIc_HD/tracks-v1a1/mono.m3u8",
      "channelPoster":"https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-bollywood-logo-300x300.jpg"
+  },
+  {
+     "channelName":"Dubai Racing",
+     "channelLanguage":"English",
+     "channelType":"Sports",
+     "channelCountry":"Dubai",
+     "channelUrl":"http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8",
+     "channelPoster":"https://live-tv-channels.org/pt-data/uploads/logo/ae-dubai-racing-7016.jpg"
   },
   {
     "channelName":"Star Plus",
     "channelLanguage":"Hindi",
     "channelType":"Series",
     "channelCountry":"India",
-    "channelUrl":"https://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8",
+    "channelUrl":"https://edge01.iptv.digijadoo.net/live/star_plus/chunks.m3u8",
     "channelPoster":"https://i.pinimg.com/564x/0a/6c/d7/0a6cd7699895d580334ae3a2a7eb6f01.jpg" 
   },
   {
@@ -273,7 +281,7 @@
      "channelLanguage":"Hindi",
      "channelType":"Movie",
      "channelCountry":"India",
-     "channelUrl":"https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8",
+     "channelUrl":"https://edge01.iptv.digijadoo.net/live/star_gold/chunks.m3u8",
      "channelPoster":"https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Star_Gold_Logo.jpg/220px-Star_Gold_Logo.jpg"
   },
   {
@@ -281,7 +289,7 @@
      "channelLanguage":"Hindi",
      "channelType":"Series",
      "channelCountry":"India",
-     "channelUrl":"https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8",
+     "channelUrl":"https://edge01.iptv.digijadoo.net/live/colors_hd/chunks.m3u8",
      "channelPoster":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Colors_tv2017.png/220px-Colors_tv2017.png"
   },
   {
@@ -305,15 +313,16 @@
     "channelLanguage":"Bangla",
     "channelType":"Entertainment",
     "channelCountry":"Bangladesh",
-    "channelUrl":"https://itpolly.iptv.digijadoo.net/live/maasranga/chunks.m3u8",
+    "channelUrl":"https://edge01.iptv.digijadoo.net/live/maasranga/chunks.m3u8",
     "channelPoster":"https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" 
   },
+  
   {
      "channelName":"Asian Tv",
      "channelLanguage":"Bangla",
      "channelType":"Entertainment",
      "channelCountry":"Bangladesh",
-     "channelUrl":"https://itpolly.iptv.digijadoo.net/live/asian_tv/chunks.m3u8",
+     "channelUrl":"https://edge01.iptv.digijadoo.net/live/asian_tv/chunks.m3u8",
      "channelPoster":"https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/150px-Asian_TV_Logo.svg.png"
   },
   {
@@ -321,7 +330,7 @@
      "channelLanguage":"Bangla",
      "channelType":"Entertainment",
      "channelCountry":"Bangladesh",
-     "channelUrl":"https://itpolly.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8",
+     "channelUrl":"https://edge01.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8",
      "channelPoster":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/120px-ATN_Bangla.svg.png"
   },
   {
@@ -329,7 +338,7 @@
      "channelLanguage":"Bangla",
      "channelType":"News",
      "channelCountry":"Bangladesh",
-     "channelUrl":"https://itpolly.iptv.digijadoo.net/live/atn_news/chunks.m3u8",
+     "channelUrl":"https://edge01.iptv.digijadoo.net/live/atn_news/chunks.m3u8",
      "channelPoster":"https://upload.wikimedia.org/wikipedia/en/thumb/5/53/ATN_News_Logo_3.GIF/120px-ATN_News_Logo_3.GIF"
   },
   {
@@ -337,7 +346,7 @@
      "channelLanguage":"Bangla",
      "channelType":"Entertainment",
      "channelCountry":"Bangladesh",
-     "channelUrl":"https://itpolly.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8",
+     "channelUrl":"https://edge01.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8",
      "channelPoster":"https://upload.wikimedia.org/wikipedia/en/6/6d/Banglavision.PNG"
   },
   {
@@ -345,7 +354,7 @@
     "channelLanguage":"Bangla",
     "channelType":"Entertainment",
     "channelCountry":"Bangladesh",
-    "channelUrl":"https://itpolly.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8",
+    "channelUrl":"https://edge01.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8",
     "channelPoster":"https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/200px-Boishakhi_TV_logo.svg.png" 
   },
   {
@@ -353,7 +362,7 @@
     "channelLanguage":"Bangla",
     "channelType":"Entertainment",
     "channelCountry":"Bangladesh",
-    "channelUrl":"https://itpolly.iptv.digijadoo.net/live/btv_world/chunks.m3u8",
+    "channelUrl":"https://edge01.iptv.digijadoo.net/live/btv_world/chunks.m3u8",
     "channelPoster":"https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Bangladesh_Television_logo.png/220px-Bangladesh_Television_logo.png" 
   },
   {
@@ -361,7 +370,7 @@
    "channelLanguage":"Bangla",
    "channelType":"Entertainment",
    "channelCountry":"Bangladesh",
-   "channelUrl":"https://itpolly.iptv.digijadoo.net/live/channel_9/chunks.m3u8",
+   "channelUrl":"https://edge01.iptv.digijadoo.net/live/channel_9/chunks.m3u8",
    "channelPoster":"https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/260px-Channel9_bd.svg.png"  
   },
   {
@@ -369,23 +378,24 @@
      "channelLanguage":"Bangla",
      "channelType":"Entertainment",
      "channelCountry":"Bangladesh",
-     "channelUrl":"https://itpolly.iptv.digijadoo.net/live/channel_i/chunks.m3u8",
+     "channelUrl":"https://edge01.iptv.digijadoo.net/live/channel_i/chunks.m3u8",
      "channelPoster":"https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/192px-Channel-i.svg.png"
   },
+  
   {
     "channelName":"DBC News",
     "channelLanguage":"Bangla",
     "channelType":"News",
     "channelCountry":"Bangladesh",
-    "channelUrl":"https://itpolly.iptv.digijadoo.net/live/dbc_news/chunks.m3u8",
+    "channelUrl":"https://edge01.iptv.digijadoo.net/live/dbc_news/chunks.m3u8",
     "channelPoster":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/DBC_News_logo.png/180px-DBC_News_logo.png" 
   },
   {
-    "channelName":"Dipto Tv",
+    "channelName":"Deepto Tv",
     "channelLanguage":"Bangla",
     "channelType":"Entertainment",
     "channelCountry":"Bangladesh",
-    "channelUrl":"https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8",
+    "channelUrl":"https://edge01.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8",
     "channelPoster":"https://www.deepto.tv/img/toplogo.png" 
   },
   {
@@ -393,23 +403,41 @@
      "channelLanguage":"Bangla",
      "channelType":"Entertainment",
      "channelCountry":"Bangladesh",
-     "channelUrl":"https://itpolly.iptv.digijadoo.net/live/desh_tv/chunks.m3u8",
+     "channelUrl":"https://edge01.iptv.digijadoo.net/live/desh_tv/chunks.m3u8",
      "channelPoster":"https://2.bp.blogspot.com/-9EB96ZSuOMw/WHSSgQ3NkTI/AAAAAAAAFzE/hrs2OdLhrVw5zqVfGQn5cDdCq2PrL2DhACLcB/s320/desh-tv-2.jpg"
+  },
+  {
+     "channelName":"Jamuna Tv",
+     "channelLanguage":"Bangla",
+     "channelType":"News",
+     "channelCountry":"Bangladesh",
+     "channelUrl":"https://edge01.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8",
+     "channelPoster":"http://www.deshibiz.com/img/media/post/1463733058_jamunatv6.jpg"
+  },
+  {
+     "channelName":"Ptv Sports",
+     "channelLanguage":"English",
+     "channelType":"Sports",
+     "channelCountry":"pakistan",
+     "channelUrl":"http://95.211.211.168/live/ptvsports2002/playlist.m3u8",
+     "channelPoster":"https://img.favpng.com/19/8/25/logo-ptv-sports-television-channel-pakistan-png-favpng-tUGSR3EfZeCiX1ir9GFivpweJ.jpg"
+
   },
   {
      "channelName":"Durunto Tv",
      "channelLanguage":"Bangla",
      "channelType":"Entertainment",
      "channelCountry":"Bangladesh",
-     "channelUrl":"https://itpolly.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8",
+     "channelUrl":"https://edge01.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8",
      "channelPoster":"https://i.pinimg.com/564x/30/17/8f/30178f6a7f669514a4a7bfd9964fd259.jpg"
   },
+  
   {
      "channelName":"Ekattor tv",
      "channelLanguage":"Bangla",
      "channelType":"Entertainment",
      "channelCountry":"Bangladesh",
-     "channelUrl":"https://itpolly.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8",
+     "channelUrl":"https://edge01.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8",
      "channelPoster":"https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/Ekattor_TV_logo.png/190px-Ekattor_TV_logo.png"
   },
   {
@@ -417,8 +445,16 @@
      "channelLanguage":"Bangla",
      "channelType":"Entertainment",
      "channelCountry":"Bangladesh",
-     "channelUrl":"https://itpolly.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8",
+     "channelUrl":"https://edge01.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8",
      "channelPoster":"https://upload.wikimedia.org/wikipedia/en/e/e7/ETV.jpg"
+  },
+  { 
+     "channelName":"Channel 24",
+     "channelLanguage":"Bangla",
+     "channelType":"News",
+     "channelCountry":"Bangladesh",
+     "channelUrl":"https://edge01.iptv.digijadoo.net/live/channel_24/chunks.m3u8",
+     "channelPoster":"https://3.bp.blogspot.com/-2Qek4msk24g/V5pRailkvoI/AAAAAAAAAGE/CO_sKjh9qk4AZAM7ooGUajCd7G5Lgm93QCK4B/s400/Channel%2B24%2Blogo.jpg"
   },
   {
      "channelName":"Independent Tv",
@@ -426,7 +462,7 @@
      "channelLanguage":"Bangla",
      "channelType":"Entertainment",
      "channelCountry":"Bangladesh",
-     "channelUrl":"https://itpolly.iptv.digijadoo.net/live/independent_tv/chunks.m3u8",
+     "channelUrl":"https://edge01.iptv.digijadoo.net/live/independent_tv/chunks.m3u8",
      "channelPoster":"https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/220px-Independent_Television_Logo.svg.png"
   },
   {
@@ -443,7 +479,7 @@
      "channelLanguage":"Bangla",
      "channelType":"Entertainment",
      "channelCountry":"Bangladesh",
-     "channelUrl":"https://itpolly.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8",
+     "channelUrl":"https://edge01.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8",
      "channelPoster":"https://cdn.bongobd.com/upload/channels/landscape/6ms91aehi2a.png"
 
   },
@@ -452,7 +488,7 @@
    "channelLanguage":"Bangla",
    "channelType":"Entertainment",
    "channelCountry":"Bangladesh",
-   "channelUrl":"https://itpolly.iptv.digijadoo.net/live/rtv/playlist.m3u8",
+   "channelUrl":"https://edge01.iptv.digijadoo.net/live/rtv/chunks.m3u8",
    "channelPoster":"https://cdn.bongobd.com/upload/channels/landscape/yvvEywo6J8F.png"  
   },
   {
@@ -460,15 +496,17 @@
      "channelLanguage":"Bangla",
      "channelType":"Entertainment",
      "channelCountry":"Bangladesh",
-     "channelUrl":"https://itpolly.iptv.digijadoo.net/live/sa_tv/playlist.m3u8",
+     "channelUrl":"https://edge01.iptv.digijadoo.net/live/sa_tv/chunks.m3u8",
      "channelPoster":"https://upload.wikimedia.org/wikipedia/en/1/15/SA_TV_Logo.png"
+
+     
   },
   {
      "channelName":"Colors Bangla HD",
      "channelLanguage":"Bangla",
      "channelType":"Movies",
      "channelCountry":"India",
-     "channelUrl":"https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8",
+     "channelUrl":"https://edge01.iptv.digijadoo.net/live/colors_bangla_hd/chunks.m3u8",
      "channelPoster":"https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg"
   }
 
