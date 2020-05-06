@@ -22,7 +22,7 @@
     "channelLanguage":"Hindi",
     "channelType":"Entertainment",
     "channelCountry":"india",
-    "channelUrl":"http://tv.ebox.live:8080/live/sony-sab.m3u8",
+    "channelUrl":"http://ddn.amrbd.com:8081/live/sonysab/playlist.m3u8",
     "channelPoster":"https://www.medianews4u.com/wp-content/uploads/2017/09/sony-sab-logo-2-2.jpg"
  
  },
@@ -214,7 +214,7 @@
      "channelLanguage":"Bangla",
      "channelType":"Sports",
      "channelCountry":"Bangladesh",
-     "channelUrl":"http://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8",
+     "channelUrl":"https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8",
      "channelPoster":"https://1.bp.blogspot.com/-ExR2n3p6MYc/W78bjBdKUHI/AAAAAAAAAWU/Wy6_RLabNJYgTeNcMGAbj1rgtX1k3KVpwCLcBGAs/s320/Gazi%20TV-live-cricket-gazi-tv-live.png"
   },
   {
@@ -222,7 +222,7 @@
      "channelLanguage":"English",
      "channelType":"Wild",
      "channelCountry":"Hong Kong",
-     "channelUrl":"https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8",
+     "channelUrl":"http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8",
 
      
      "channelPoster":"https://img.favpng.com/12/20/21/logo-nat-geo-wild-national-geographic-television-channel-png-favpng-X5cTr0eRJi2b96GK1s1x1nBAK.jpg"
@@ -232,8 +232,8 @@
      "channelLanguage":"English",
      "channelType":"Entertainment",
      "channelCountry":"Hong Kong",
-     "channelUrl":"https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8",
-     "channelPoster":"https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/zee-cinema-new.jpg"
+     "channelUrl":"http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8",
+     "channelPoster":"https://ewsat.com/img/NAT_GEO_PEOPLE.png"
   },
   {
      "channelName":"Zee Tv",
@@ -434,7 +434,7 @@
      "channelLanguage":"Bangla",
      "channelType":"Entertainment",
      "channelCountry":"Bangladesh",
-     "channelUrl":"https://itpolly.iptv.digijadoo.net/live/ntv/chunks.m3u8",
+     "channelUrl":"https://edge01.iptv.digijadoo.net/live/ntv/chunks.m3u8",
      "channelPoster":"https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/120px-NTV_%28Bangladesh%29_logo.svg.png"
 
   },
