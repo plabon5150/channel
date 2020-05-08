@@ -248,7 +248,7 @@
   {
      "channelName":"NetGeo People",
      "channelLanguage":"English",
-     "channelType":"Documantory",
+     "channelType":"Documentary",
      "channelCountry":"Hong Kong",
      "channelUrl":"http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8",
      "channelPoster":"https://ewsat.com/img/NAT_GEO_PEOPLE.png"
@@ -256,7 +256,7 @@
   {
    "channelName":"NetGeo People",
    "channelLanguage":"English",
-   "channelType":"Documantory",
+   "channelType":"Documentary",
    "channelCountry":"Hong Kong",
    "channelUrl":"https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8",
    "channelPoster":"https://ewsat.com/img/NAT_GEO_PEOPLE.png"
@@ -757,7 +757,554 @@
    "channelCountry":"India",
    "channelUrl":"https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8",
    "channelPoster":"https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg"
+  },
+  {
+   "channelName":"Star Jalsha HD",
+   "channelLanguage":"Bangla",
+   "channelType":"Serials",
+   "channelCountry":"India",
+   "channelUrl":"https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8",
+   "channelPoster":"https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg"
+  },
+  {
+   "channelName":"Star Jalsha HD",
+   "channelLanguage":"Bangla",
+   "channelType":"Serials",
+   "channelCountry":"India",
+   "channelUrl":"https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8",
+   "channelPoster":"https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg"
+  },
+  {
+   "channelName":"Star Jalsha Movies",
+   "channelLanguage":"Bangla",
+   "channelType":"Movies",
+   "channelCountry":"India",
+   "channelUrl":"https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8",
+   "channelPoster":"https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png"
+  },
+  {
+   "channelName":"5aab Tv",
+   "channelLanguage":"Hindi",
+   "channelType":"Entertainment",
+   "channelCountry":"India",
+   "channelUrl":"http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8",
+   "channelPoster":"http://www.5aabtv.ca/public/assets/frantend/images/newlogo.png"
+  },
+  {
+     "channelName":"7s Music",
+     "channelLanguage":"Hindi",
+     "channelType":"Musics",
+     "channelCountry":"India",
+     "channelUrl":"http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8",
+     "channelPoster":"https://pbs.twimg.com/profile_images/857130996499722241/n1sI-sPl.jpg"
+  },
+  {
+    "channelName":"Abp ananda",
+    "channelLanguage":"Bangla",
+    "channelType":"News",
+    "channelCountry":"India",
+    "channelUrl":"i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8",
+    "channelPoster":"https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/ABP_Anada_logo.png/100px-ABP_Anada_logo.png" 
+  },
+  {
+     "channelName":"Abp asmita",
+     "channelLanguage":"Gujarati",
+     "channelType":"News",
+     "channelCountry":"India",
+     "channelUrl":"http://abpasmita-lh.akamaihd.net/i/abpasmita_1@77821/master.m3u8",
+     "channelPoster":"https://static.abplive.com/wp-content/themes/abp-english/images/logo/ABP_Live.png"
+  },
+  {
+   "channelName":"Abp asmita",
+   "channelLanguage":"Gujarati",
+   "channelType":"News",
+   "channelCountry":"India",
+   "channelUrl":"i.akamaihd.net/hls/live/765532/abpasmita/masterhls_1564.m3u8",
+   "channelPoster":"https://static.abplive.com/wp-content/themes/abp-english/images/logo/ABP_Live.png"
+},
+{
+   "channelName":"Abp Majha",
+   "channelLanguage":"Marathi",
+   "channelType":"News",
+   "channelCountry":"India",
+   "channelUrl":"i.akamaihd.net/hls/live/765531/abpmajha/masterhls_1564.m3u8",
+   "channelPoster":"https://upload.wikimedia.org/wikipedia/en/c/c1/ABP_Majha_logo.png"
+},
+{
+   "channelName":"Abp Majha",
+   "channelLanguage":"Hindi",
+   "channelType":"News",
+   "channelCountry":"India",
+   "channelUrl":"i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8",
+   "channelPoster":"https://upload.wikimedia.org/wikipedia/en/thumb/4/49/ABP_News_logo.png/100px-ABP_News_logo.png"
+},
+  {
+   "channelName":"WWE Sony Liv",
+   "channelLanguage":"English",
+   "channelType":"Sports",
+   "channelCountry":"India",
+   "channelUrl":"https://streaming.sonyliv.com/Sports_WWE_RAW_Full_Episode_English_4th_04122018_900K.m3u8",
+   "channelPoster":"https://upload.wikimedia.org/wikipedia/en/1/1d/Sony_LIV2017.jpg"
+  },
+  {
+   "channelName":"Xcorps tv",
+   "channelLanguage":"English",
+   "channelType":"Sports",
+   "channelCountry":"Usa",
+   "channelUrl":"http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8",
+   "channelPoster":"https://m.media-amazon.com/images/M/MV5BMjQ0MDY5Njk4OF5BMl5BanBnXkFtZTgwMTY5NjkyMDE@._V1_UX182_CR0,0,182,268_AL_.jpg"  
+  },
+  {
+   "channelName":"Wosn sports",
+   "channelLanguage":"English",
+   "channelType":"Sports",
+   "channelCountry":"Usa",
+   "channelUrl":"http://streamengine.wosn.tv:1935/live/WOSNLive_1/playlist.m3u8",
+   "channelPoster":"http://wosn.tv/wp-content/uploads/2015/05/WOSN-blue-fade-with-blue-script.png"
+  },
+  {
+     "channelName":"Turkmenistan sport",
+     "channelLanguage":"Turkmen ",
+     "channelType":"Sports",
+     "channelCountry":"Turkmen ",
+     "channelUrl":"http://217.174.225.146/legacyhls/ch004_720/index.m3u8",
+     "channelPoster":"https://live-tv-channels.org/pt-data/uploads/logo/tm-turkmenistan-spor.jpg"
+
+  },
+  {
+    "channelName":"Red Bull TV",
+    "channelLanguage":"English",
+    "channelType":"Sports",
+    "channelCountry":"Austria",
+    "channelUrl":"http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8",
+    "channelPoster":"https://www.brandeps.com/logo-download/R/Red-Bull-TV-logo-vector-01.svg" 
+  },
+  {
+   "channelName":"Red Bull TV",
+   "channelLanguage":"English",
+   "channelType":"Sports",
+   "channelCountry":"Austria",
+   "channelUrl":"https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8",
+   "channelPoster":"https://www.brandeps.com/logo-download/R/Red-Bull-TV-logo-vector-01.svg" 
+ },
+  {
+     "channelName":"Olympic Channel",
+     "channelLanguage":"English",
+     "channelType":"Sports",
+     "channelCountry":"Spain",
+     "channelUrl":"http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8",
+     "channelPoster":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Olympic_Channel_logo.png/220px-Olympic_Channel_logo.png"
+  },
+  {
+     "channelName":"Fight Sports",
+     "channelLanguage":"English",
+     "channelType":"Sports",
+     "channelCountry":"Croatia",
+     "channelUrl":"http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8",
+     "channelPoster":"https://pbs.twimg.com/profile_images/689545865699139584/lTtOY34z.jpg"
+  },
+  {
+   "channelName":"Fight Sports",
+   "channelLanguage":"English",
+   "channelType":"Sports",
+   "channelCountry":"Croatia",
+   "channelUrl":"http://210.210.155.35/uq2663/h/h05/01.m3u8",
+   "channelPoster":"https://pbs.twimg.com/profile_images/689545865699139584/lTtOY34z.jpg"
+},
+  {
+    "channelName":"Arriadia Maroc",
+    "channelLanguage":"Morocco",
+    "channelType":"Sports",
+    "channelCountry":"Morocco",
+    "channelUrl":"http://www.elahmad.com/tv/m3u8/maroc.m3u8?id=arriadia",
+    "channelPoster":"https://www.pngitem.com/pimgs/m/412-4125043_arriadia-tv-maroc-live-hd-png-download.png"
+  },
+  {
+   "channelName":"Real Madrid TV",
+   "channelLanguage":"English",
+   "channelType":"Sports",
+   "channelCountry":"Spain",
+   "channelUrl":"http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8",
+   "channelPoster":"https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/header_logo.svg"
+  },
+  {
+   "channelName":"Real Madrid TV",
+   "channelLanguage":"Spanish",
+   "channelType":"Sports",
+   "channelCountry":"Spain",
+   "channelUrl":"http://rmtv24hweblive-lh.akamaihd.net:80/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8",
+   "channelPoster":"https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/header_logo.svg"
+  },
+  {
+   "channelName":"Real Madrid TV",
+   "channelLanguage":"Spanish",
+   "channelType":"Sports",
+   "channelCountry":"Spain",
+   "channelUrl":"http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8",
+   "channelPoster":"https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/header_logo.svg"
+  },
+  {
+   "channelName":"Real Madrid TV",
+   "channelLanguage":"Spanish",
+   "channelType":"Sports",
+   "channelCountry":"Spain",
+   "channelUrl":"http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8",
+   "channelPoster":"https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/header_logo.svg"
+  },
+  {
+   "channelName":"Real Madrid TV",
+   "channelLanguage":"Spanish",
+   "channelType":"Sports",
+   "channelCountry":"Spain",
+   "channelUrl":"http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8",
+   "channelPoster":"https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/header_logo.svg"
+  },
+  {
+   "channelName":"Астрахань.Ru Sport ",
+   "channelLanguage":"Russian",
+   "channelType":"Sports",
+   "channelCountry":"Russia",
+   "channelUrl":"http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8",
+   "channelPoster":"https://pbs.twimg.com/profile_images/824553227458863104/dYaLJ1AG.jpg"
+  },
+  {
+   "channelName":"Астрахань.Ru Sport ",
+   "channelLanguage":"Russian",
+   "channelType":"Sports",
+   "channelCountry":"Russia",
+   "channelUrl":"http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8",
+   "channelPoster":"https://pbs.twimg.com/profile_images/824553227458863104/dYaLJ1AG.jpg"
+  },
+  {
+    "channelName":"Al Kass Sports",
+    "channelLanguage":"Arabic",
+    "channelType":"Sports",
+    "channelCountry":"Qatar",
+    "channelUrl":"http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2",
+    "channelPoster":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D9%83%D8%AA%D8%B3.jpg/220px-%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D9%83%D8%AA%D8%B3.jpg"
+  },
+  {
+   "channelName":"Al Kass Sports",
+   "channelLanguage":"Arabic",
+   "channelType":"Sports",
+   "channelCountry":"Qatar",
+   "channelUrl":"http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1",
+   "channelPoster":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D9%83%D8%AA%D8%B3.jpg/220px-%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D9%83%D8%AA%D8%B3.jpg"
+ },
+ {
+   "channelName":"Al Kass Sports",
+   "channelLanguage":"Arabic",
+   "channelType":"Sports",
+   "channelCountry":"Qatar",
+   "channelUrl":"http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5",
+   "channelPoster":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D9%83%D8%AA%D8%B3.jpg/220px-%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D9%83%D8%AA%D8%B3.jpg"
+ },
+ {
+    "channelName":"World Of Free Sports TV",
+    "channelLanguage":"English",
+    "channelType":"Sports",
+    "channelCountry":"United Kingdom",
+    "channelUrl":"https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8",
+    "channelPoster":"https://upload.wikimedia.org/wikipedia/en/b/bf/FreeSportsLogo.jpg"
+ },
+ {
+    "channelName":"Bahrain Sport 1",
+    "channelLanguage":"Bahrain",
+    "channelType":"Sports",
+    "channelCountry":"Bahrain",
+    "channelUrl":"http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8?v=1558393494",
+    "channelPoster":"http://es.heytv.org/wp-content/uploads/2019/03/bahrain-Sports-webtvonlive-com.jpg"
+ },
+ {
+   "channelName":"Bahrain Sport 1",
+   "channelLanguage":"Bahrain",
+   "channelType":"Sports",
+   "channelCountry":"Bahrain",
+   "channelUrl":"http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8?v=1548640033",
+   "channelPoster":"http://es.heytv.org/wp-content/uploads/2019/03/bahrain-Sports-webtvonlive-com.jpg"
+},{
+   "channelName":"CBC Sport",
+   "channelLanguage":"English",
+   "channelType":"Sports",
+   "channelCountry":"Canada",
+   "channelUrl":"https://streams.livetv.az/azerbaijan/cbc_sport_hd/chunks.m3u8",
+   "channelPoster":"https://upload.wikimedia.org/wikipedia/en/thumb/0/04/CBC_Sports_Logo.png/240px-CBC_Sports_Logo.png"
+},
+{
+   "channelName":"Fox Sports News",
+   "channelLanguage":"English",
+   "channelType":"Sports",
+   "channelCountry":"US",
+   "channelUrl":"https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8",
+   "channelPoster":"https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/220px-Fox_Sports_Logo.svg.png"
+},
+{
+   "channelName":"Rtsh Sport",
+   "channelLanguage":"Albania",
+   "channelType":"Sports",
+   "channelCountry":"Albania",
+   "channelUrl":"http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8",
+   "channelPoster":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/RTSH_logo_%282017%29.svg/200px-RTSH_logo_%282017%29.svg.png"
+},
+{
+   "channelName":"DJING HD",
+   "channelLanguage":"English",
+   "channelType":"Musics",
+   "channelCountry":"US",
+   "channelUrl":"https://www.djing.com/tv/28676-04.m3u8",
+   "channelPoster":"https://www.djing.com/newimages/content/c01.jpg"
+},
+{
+   "channelName":"DJING Animation",
+   "channelLanguage":"English",
+   "channelType":"Musics",
+   "channelCountry":"US",
+   "channelUrl":"https://www.djing.com/tv/a-28676-04.m3u8",
+   "channelPoster":"https://www.djing.com/newimages/content/c01.jpg"
+},
+{
+   "channelName":"DJING Classics",
+   "channelLanguage":"English",
+   "channelType":"Musics",
+   "channelCountry":"US",
+   "channelUrl":"https://www.djing.com/tv/i-28676-04.m3u8",
+   "channelPoster":"https://www.djing.com/newimages/content/c01.jpg"
+},
+{
+   "channelName":"DJING Dancefloor",
+   "channelLanguage":"English",
+   "channelType":"Musics",
+   "channelCountry":"US",
+   "channelUrl":"https://www.djing.com/tv/d-28676-04.m3u8",
+   "channelPoster":"https://www.djing.com/newimages/content/c01.jpg"
+
+},
+{
+   "channelName":"DJING Electro Rock",
+   "channelLanguage":"English",
+   "channelType":"Musics",
+   "channelCountry":"US",
+   "channelUrl":"https://www.djing.com/tv/s-28676-05-electro-rock.m3u8",
+   "channelPoster":"https://www.djing.com/newimages/content/c01.jpg"
+
+},
+{
+   "channelName":"DJING French Touch",
+   "channelLanguage":"English",
+   "channelType":"Musics",
+   "channelCountry":"US",
+   "channelUrl":"https://www.djing.com/tv/s-28676-05-french-touch.m3u8",
+   "channelPoster":"https://www.djing.com/newimages/content/c01.jpg"
+
+},
+{
+   "channelName":"DJING Hedonist",
+   "channelLanguage":"English",
+   "channelType":"Musics",
+   "channelCountry":"US",
+   "channelUrl":"https://djing.com/tv/s-28676-05-hedonist.m3u8",
+   "channelPoster":"https://www.djing.com/newimages/content/c01.jpg"
+
+},
+{
+   "channelName":"DJING Hot Hot Hot",
+   "channelLanguage":"English",
+   "channelType":"Musics",
+   "channelCountry":"US",
+   "channelUrl":"https://www.djing.com/tv/h-01-fta.m3u8",
+   "channelPoster":"https://www.djing.com/newimages/content/c01.jpg"
+
+},
+{
+   "channelName":"DJING Summer Vibes",
+   "channelLanguage":"English",
+   "channelType":"Musics",
+   "channelCountry":"US",
+   "channelUrl":"https://www.djing.com/tv/s-28676-05-summer-vibes.m3u8",
+   "channelPoster":"https://www.djing.com/newimages/content/c01.jpg"
+
+},
+{
+   "channelName":"DJING Summer Vibes",
+   "channelLanguage":"English",
+   "channelType":"Musics",
+   "channelCountry":"US",
+   "channelUrl":"https://www.djing.com/tv/s-28676-05-summer-vibes.m3u8",
+   "channelPoster":"https://www.djing.com/newimages/content/c01.jpg"
+
+},
+{
+   "channelName":"DJING Underground",
+   "channelLanguage":"English",
+   "channelType":"Musics",
+   "channelCountry":"US",
+   "channelUrl":"https://www.djing.com/tv/u-28676-04.m3u8",
+   "channelPoster":"https://www.djing.com/newimages/content/c01.jpg"
+
+},
+{
+   "channelName":"DJING Karaoke",
+   "channelLanguage":"English",
+   "channelType":"Musics",
+   "channelCountry":"US",
+   "channelUrl":"https://www.djing.com/tv/k-28676-05.m3u8",
+   "channelPoster":"https://www.djing.com/newimages/content/c01.jpg"
+
+},
+{
+   "channelName":"24 France",
+   "channelLanguage":"french",
+   "channelType":"News",
+   "channelCountry":"France",
+   "channelUrl":"http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8",
+   "channelPoster":"https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png"
+
+},
+{
+   "channelName":"FTV PARIS NEW HD",
+   "channelLanguage":"English",
+   "channelType":"Entertainment",
+   "channelCountry":"France",
+   "channelUrl":"http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8",
+   "channelPoster":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/120px-Fashion_TV_logo.svg.png"
+
+},
+{
+   "channelName":"FTV PARIS NEW HD",
+   "channelLanguage":"English",
+   "channelType":"Entertainment",
+   "channelCountry":"France",
+   "channelUrl":"http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8",
+   "channelPoster":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/120px-Fashion_TV_logo.svg.png"
+
+},
+{
+   "channelName":"Gong MaX",
+   "channelLanguage":"Japanese",
+   "channelType":"Cartoon",
+   "channelCountry":"Japan",
+   "channelUrl":"http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8",
+   "channelPoster":"https://www.telerama.fr/sites/tr_master/files/sheet_media/tv/150x150/621.png"
+
+},
+{
+   "channelName":"GRAND LILLE TV NEW",
+   "channelLanguage":"french",
+   "channelType":"News",
+   "channelCountry":"France",
+   "channelUrl":"https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/playlist.m3u8",
+   "channelPoster":"https://upload.wikimedia.org/wikipedia/fr/thumb/5/59/BFM_GRAND_LILLE_-_2020.png/600px-BFM_GRAND_LILLE_-_2020.png"
+
+},
+{
+   "channelName":"KTO",
+   "channelLanguage":"french",
+   "channelType":"Documentary",
+   "channelCountry":"France",
+   "channelUrl":"http://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8",
+   "channelPoster":"https://pbs.twimg.com/profile_images/1212677792925700096/XTHtGiwS_400x400.jpg"
+
+},
+{
+   "channelName":"TELE QUEBEC",
+   "channelLanguage":"French",
+   "channelType":"Entertainment",
+   "channelCountry":"Canada",
+   "channelUrl":"http://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8",
+   "channelPoster":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg/220px-T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg.png"
+
+},
+{
+   "channelName":"Rts 1",
+   "channelLanguage":"Serbia",
+   "channelType":"Entertainment",
+   "channelCountry":"Serbia",
+   "channelUrl":"http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8",
+   "channelPoster":"https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/RTS_1_logo_2019.svg/512px-RTS_1_logo_2019.svg.png"
+
+},
+{
+   "channelName":"Rts 1",
+   "channelLanguage":"Serbia",
+   "channelType":"Entertainment",
+   "channelCountry":"Serbia",
+   "channelUrl":"http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8",
+   "channelPoster":"https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/RTS_1_logo_2019.svg/512px-RTS_1_logo_2019.svg.png"
+
+},
+{
+   "channelName":"TRACE AFRICA",
+   "channelLanguage":"African",
+   "channelType":"Musics",
+   "channelCountry":"Africa",
+   "channelUrl":"https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8",
+   "channelPoster":"https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Trace_Africa_logo.webp/512px-Trace_Africa_logo.webp.png"
+
+},
+{
+   "channelName":"TRACE KITOKO",
+   "channelLanguage":"African",
+   "channelType":"Musics",
+   "channelCountry":"Africa",
+   "channelUrl":"https://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8",
+   "channelPoster":"https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Trace_Africa_logo.webp/512px-Trace_Africa_logo.webp.png"
+
+},
+{
+   "channelName":"TRACE MZIKI",
+   "channelLanguage":"African",
+   "channelType":"Musics",
+   "channelCountry":"Africa",
+   "channelUrl":"http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8",
+   "channelPoster":"https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Trace_Africa_logo.webp/512px-Trace_Africa_logo.webp.png"
+
+},
+{
+   "channelName":"TRACE NAIJA",
+   "channelLanguage":"African",
+   "channelType":"Musics",
+   "channelCountry":"Africa",
+   "channelUrl":"https://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8",
+   "channelPoster":"https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Trace_Africa_logo.webp/512px-Trace_Africa_logo.webp.png"
+
+},
+{
+   "channelName":"TRACE TOCA",
+   "channelLanguage":"African",
+   "channelType":"Musics",
+   "channelCountry":"Africa",
+   "channelUrl":"https://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8",
+   "channelPoster":"https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Trace_Africa_logo.webp/512px-Trace_Africa_logo.webp.png"
+
+},
+{
+   "channelName":"TRACE TROPICAL",
+   "channelLanguage":"African",
+   "channelType":"Musics",
+   "channelCountry":"Africa",
+   "channelUrl":"https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8",
+   "channelPoster":"https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Trace_Africa_logo.webp/512px-Trace_Africa_logo.webp.png"
+
+},
+{
+   "channelName":"Trace Kitoko",
+   "channelLanguage":"African",
+   "channelType":"Musics",
+   "channelCountry":"Africa",
+   "channelUrl":"http://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8",
+   "channelPoster":"https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Trace_Africa_logo.webp/512px-Trace_Africa_logo.webp.png"
+
+},
+{
+   "channelName":"Rts one",
+   "channelLanguage":"Sénégalaise",
+   "channelType":"Entertainment",
+   "channelCountry":"Senegal",
+   "channelUrl":"https://bozztv.com/36bay2/gin/giniko_rts1_900kb_36bay2/tracks-v1a1/mono.m3u8",
+   "channelPoster":"https://pbs.twimg.com/profile_images/1246177420471930883/OyMLO3M0_400x400.jpg"
+
 }
+
 
 
 
